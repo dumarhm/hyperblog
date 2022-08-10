@@ -1,0 +1,2 @@
+Este es un mensaje de prueba para verificar la función del comando cat
+Ahora estoy haciendo unos cambios antes de trackear este file
