@@ -1,2 +1,1 @@
-Este es un archivo de texto nuevo para
-probar las funcionalidades de Git
+Ahora parece que es mi primer archivo .css
