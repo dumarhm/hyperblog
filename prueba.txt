@@ -1,3 +1,2 @@
-Ahora parece que es mi primer archivo .css
-
-También es la primera vez que enlazo HTML y CSS
+Este es un archivo de texto nuevo para
+probar las funcionalidades de Git
