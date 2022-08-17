@@ -1,2 +1,5 @@
 Este es un archivo de texto nuevo para
 probar las funcionalidades de Git
+
+Quiero editar este también para ver la
+funcionalidad del reset
