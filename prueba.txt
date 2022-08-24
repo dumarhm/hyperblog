@@ -3,3 +3,5 @@ probar las funcionalidades de Git
 
 Quiero editar este también para ver la
 funcionalidad del reset
+
+Master 1
