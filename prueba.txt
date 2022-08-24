@@ -4,6 +4,10 @@ probar las funcionalidades de Git
 Quiero editar este también para ver la
 funcionalidad del reset
 
+Experiment 1
+
+Experiment 2
+
 Master 1
 
 Master 2
